@@ -70,5 +70,4 @@ will run but will not be able to do any analysis requiring data smoothing; a war
 
 ### Contact Details ###
 
-This program was primarily developed by Abbey Roelofs, University of Michigan LSA Technology Services.
-Email lsait-ars@umich.edu for future assistance with this program.
+This program was primarily developed by Abbey Roelofs, University of Michigan LSA Technology Services. This branch is not a working version. Please use this branch https://github.com/ajlopatkin/PHASE, which is maintained by the Lopatkin Lab at Barnard College. Please use the same Github repo for bug fix/enhancement requests.
